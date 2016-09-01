@@ -3,6 +3,7 @@
 3. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 4. [Awesome Random Forest](https://github.com/kjw0612/awesome-random-forest/blob/master/README.md)
 5. [Neural network papers list (yet another)](https://github.com/robertsdionne/neural-network-papers)
+6. [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 
 
 
